@@ -1,0 +1,2 @@
+hello first file in day 1
+modified with new file2
